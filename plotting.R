@@ -219,7 +219,13 @@ names(colset3) <- levels(all_levels$listing)
 ## 
 ## 
 ## 
-
+col_palette_out <- data.frame(figure = c(rep("ACAD_summary_figures",length(colset2)),
+                                         rep("ACAD_vs_IUCN_figure",length(colset3))),
+                              category = c(names(colset2),names(colset3)),
+                              colour_hex = c(colset2,colset3),
+                              colour_red = col2rgb(c(colset2,colset3))["red",],
+                              colour_green = col2rgb(c(colset2,colset3))["green",],
+                              colour_blue = col2rgb(c(colset2,colset3))["blue",])
 
 watch_red <- acad %>% 
   select(common_name,canada,usa,mexico,c_america,

@@ -1,0 +1,23 @@
+﻿"figure","category","colour_hex","colour_red","colour_green","colour_blue"
+"ACAD_summary_figures","No specific concern status","#4E87B8",78,135,184
+"ACAD_summary_figures","Common Bird in Steep Decline","#B4DDC5",180,221,197
+"ACAD_summary_figures","Yellow Watch List","#D5D893",213,216,147
+"ACAD_summary_figures","Yellow Watch List/Tipping-Point","#C3A34B",195,163,75
+"ACAD_summary_figures","Orange Watch List/Tipping-Point","#A2662C",162,102,44
+"ACAD_summary_figures","Red Watch List/Tipping-Point","#874036",135,64,54
+"ACAD_vs_IUCN_figure","Common Bird in Steep
+  Decline","#B4DDC5",180,221,197
+"ACAD_vs_IUCN_figure","Near Threatened","#B4DDC5",180,221,197
+"ACAD_vs_IUCN_figure","Yellow Watch List","#D5D893",213,216,147
+"ACAD_vs_IUCN_figure","Yellow Watch
+  List/Tipping-Point","#C3A34B",195,163,75
+"ACAD_vs_IUCN_figure","Vulnerable","#A2662C",162,102,44
+"ACAD_vs_IUCN_figure","Orange Watch
+  List/Tipping-Point","#A2662C",162,102,44
+"ACAD_vs_IUCN_figure","Endangered","#874036",135,64,54
+"ACAD_vs_IUCN_figure","Red Watch
+  List/Tipping-Point","#874036",135,64,54
+"ACAD_vs_IUCN_figure","Critically
+  Endangered/Possibly
+  Extinct","#723957",114,57,87
+"ACAD_vs_IUCN_figure","Extinct in the Wild","#000000",0,0,0
