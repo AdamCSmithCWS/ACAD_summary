@@ -226,6 +226,8 @@ col_palette_out <- data.frame(figure = c(rep("ACAD_summary_figures",length(colse
                               colour_red = col2rgb(c(colset2,colset3))["red",],
                               colour_green = col2rgb(c(colset2,colset3))["green",],
                               colour_blue = col2rgb(c(colset2,colset3))["blue",])
+write_excel_csv(col_palette_out,"saved_colour_palettes_ACAD.csv")
+
 
 watch_red <- acad %>% 
   select(common_name,canada,usa,mexico,c_america,
